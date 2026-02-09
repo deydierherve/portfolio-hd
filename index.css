@@ -34,7 +34,7 @@ html, body{
     transition: all 0.3s ease 0.2s;
 }
 
-.menu a{
+.menu b{
     font-weight: bold;
     text-decoration: ;
     text-transform: uppercase;
@@ -42,9 +42,10 @@ html, body{
     padding: 0 10px;
     color: #FFF;
     transition: all 0.1s ease 0.2s;
+    visible: fa
 }
 
-.menu a:hover{
+.menu b:hover{
     color: #62bcda;
     transition: all 0.3s ease 0.2s;
 }
@@ -64,8 +65,9 @@ img{
     height:200px;
     background-color:#222222;
 }
+.about_container1{
+     width:100%;
+    height:500px;
+    background-color:#404040;
+}    
 
-.separator{
-    height: 10px;
-    background-color: red;
-}
