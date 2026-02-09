@@ -30,11 +30,11 @@ html, body{
 }
 
 .menu a:hover{
-    color: #62bcda;
+    color: #6D0080;
     transition: all 0.3s ease 0.2s;
 }
 
-.menu b{
+.menu a_light{
     font-weight: bold;
     text-decoration: ;
     text-transform: uppercase;
@@ -45,7 +45,7 @@ html, body{
     visible: fa
 }
 
-.menu b:hover{
+.menu a_light:hover{
     color: #62bcda;
     transition: all 0.3s ease 0.2s;
 }
