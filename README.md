@@ -1,2 +1,4 @@
 # portfolio-hd
-This is my personnal portofilio
+This is my personnal portfolio.
+Only made by me -> NO IA
+
