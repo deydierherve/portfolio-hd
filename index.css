@@ -1,12 +1,11 @@
 html, body{
-    background-color: #F6F6F6;
+    background-color: #000000;
     font-family: Verdana, sans-serif;
     font-size: 16px;
     height: 100%;
     margin: 0;
     padding: 0;
 }
-/* HEADER */
 .header{
     position: fixed;
     left: 0;
@@ -34,17 +33,29 @@ html, body{
     color: #62bcda;
     transition: all 0.3s ease 0.2s;
 }
+
+.menu a{
+    font-weight: bold;
+    text-decoration: ;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 0 10px;
+    color: #FFF;
+    transition: all 0.1s ease 0.2s;
+}
+
+.menu a:hover{
+    color: #62bcda;
+    transition: all 0.3s ease 0.2s;
+}
+
 img{
     float: left;
     position: absolute;
     top: 20px;
     left: 20px;
 }
-/* CONTAINER */
-.container{
-    height: 950px;
-}
-/* FOOTER */
+
 .footer{
     float:left;
     width:100%;
@@ -53,17 +64,8 @@ img{
     height:120px;
     background-color:#222222;
 }
-.copyright{
-    text-align:center;
-    color:#FFF;
-}
 
-/* ADDITIONAL CLASSES */
 .separator{
     height: 10px;
     background-color: red;
-}
-.flat{
-    height: 400px;
-    background-color: #62bcda;
 }
