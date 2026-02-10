@@ -34,10 +34,6 @@ html, body{
 }
 
 img{
-    float: left;
-    position: absolute;
-    top: 20px;
-    left: 20px;
 }
 
 .footer{
@@ -51,7 +47,7 @@ img{
 .footer vignette{
     float:left;
     width:30%;
-    height:auto
+    height:100%
 }
 .about_container1{
      width:100%;
