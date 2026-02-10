@@ -37,7 +37,9 @@ img{
 }
 
 .footer{
-    float:left;
+    position: fixed;
+    left: 0;
+    bottom: 0;
     width:100%;
     line-height: 60px;
     bottom:0;
